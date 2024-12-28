@@ -1,0 +1,7 @@
+name: MSeller
+version: '${version}'
+author: makaron00
+main: org.makaron.ua.mseller.MSeller
+api-version: '1.16'
+commands:
+  seller:
